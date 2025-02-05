@@ -132,3 +132,6 @@ hexo-browsersync:
 lazyload:
   enable: true
   loadingImg: /img/loading.gif
+
+# butterfly_article_double_row:
+#   enable: true
