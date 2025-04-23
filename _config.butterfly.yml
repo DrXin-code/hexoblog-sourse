@@ -23,21 +23,20 @@ menu:
     标签: /tags/ || fa fa-tags
     归档: /archives/ || fa fa-folder-open
   生活 || fas fa-list:
-    分享: /shuoshuo/ || fa fa-share-alt
-    相册: /photos/ || fa fa-camera-retro
+    # 分享: /shuoshuo/ || fa fa-share-alt
+    # 相册: /photos/ || fa fa-camera-retro
     音乐: /music/ || fa fa-music
     影视: /movies/ || fas fa-video
     旅游: /travel/ || fa fa-map-marker
   友链: /links/ || fa fa-link
   留言板: /comments/ || fa fa-paper-plane
   #留言板: /messageboard/ || fa fa-paper-plane
-  关于笔者: /about/ || fas fa-heart  
+  关于笔者: /about/ || fas fa-heart
 
   # Home: / || fas fa-home
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
-  
 
 # --------------------------------------
 # Code Blocks Settings
@@ -45,7 +44,7 @@ menu:
 
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
-  highlight_theme: mac  #  darker / pale night / light / ocean / mac / mac light / false 代码主题
+  highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false 代码主题
   highlight_copy: true # 复制按钮
   highlight_lang: false # 是否显示代码语言
   highlight_shrink: false # true: 代码块默认不展开 / false: 代码块默认展开 | none: 展开并隐藏折叠按钮
@@ -68,20 +67,19 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/DrXin-code || Github 
+  fab fa-github: https://github.com/DrXin-code || Github
   fab fa-qq: https://s2.loli.net/2025/01/25/wJHIt2C7kcea51A.jpg|| QQ
   fab fa-weixin: https://s2.loli.net/2025/01/25/e1rfVAHbdwzXFDE.jpg || WeChat
   fas fa-mobile: tel:+8613325313816|| Mobile Number
-  
 
 # --------------------------------------
 # Image Settings
 # --------------------------------------
 
-favicon: https://s2.loli.net/2025/01/25/AEXnqBI2mdy7tLz.jpg
+favicon: https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062148474.jpeg
 
 avatar:
-  img: https://s2.loli.net/2025/01/25/AEXnqBI2mdy7tLz.jpg
+  img: https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062148474.jpeg
   effect: false
 
 # Disable all banner images
@@ -91,35 +89,33 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img:  t
+index_img: t
 
 # The banner image of archive page
 # archive_img: image/wallhaven-2yxp16_2560x1664.png
 
 # Note: tag page, not tags page
-tag_img: 
+tag_img:
 
 # The banner image of tag page, you can set the banner image for each tag
 # Format:
 #  - tag name: xxxxx
-tag_per_img: 
+tag_per_img:
 
 # Note: category page, not categories page
-category_img: 
+category_img:
 
 # The banner image of category page, you can set the banner image for each category
 # Format:
 #  - category name: xxxxx
-category_per_img: 
-# hexo cl && hexo g && open http://localhost:4000 && hexo s 
+category_per_img:
+# hexo cl && hexo g && open http://localhost:4000 && hexo s
 # The background image of footer
-footer_img: 
+footer_img:
 
 # Website Background
 # Can set it to color or image url
-background: https://s2.loli.net/2025/01/25/OMBcQvyYD1N8LoK.jpg
-
-
+background: https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062212377.png
 
 cover:
   # Disable the cover or not
@@ -128,56 +124,50 @@ cover:
   archives_enable: true
   # When cover is not set, the default cover is displayed
   default_cover:
-      - https://s2.loli.net/2025/01/25/SHIhUrj3wQmE9ne.jpg
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013465.jpeg
 
-      - https://s2.loli.net/2025/01/25/exvomWuT4RnSOZ7.jpg
-
-      - https://s2.loli.net/2025/01/25/X5n4fgalWiPUkxE.jpg
-
-      - https://s2.loli.net/2025/01/25/yhqaMC9I5nc7sNG.jpg
-
-      - https://s2.loli.net/2025/01/25/Iq1SDA8MvQ93yYJ.jpg
-
-      - https://s2.loli.net/2025/01/25/kz76pl8MeEwAiQx.jpg
-
-      - https://s2.loli.net/2025/01/25/Dl7kGjt1QPhyg5z.jpg
-
-      - https://s2.loli.net/2025/01/25/eVgRUhsG54LInc6.jpg
-
-      - https://s2.loli.net/2025/01/25/m4uedp1yQKUL3P7.jpg
-
-      - https://s2.loli.net/2025/01/25/xfoMnmWEc1sUYNV.jpg
-
-      - https://s2.loli.net/2025/01/25/N8ieKFdAyqtLhYw.jpg
-
-      - https://s2.loli.net/2025/01/25/oUxSGzyvA4sEh5a.jpg
-
-      - https://s2.loli.net/2025/01/25/CU3LtNgwinMfsbr.jpg
-
-      - https://s2.loli.net/2025/01/25/M9GgQHuojeAyKNa.jpg
-
-      - https://s2.loli.net/2025/01/25/RM4T8bfy2XjNCK7.jpg
-
-      - https://s2.loli.net/2025/01/25/OMBcQvyYD1N8LoK.jpg
-
-      - https://s2.loli.net/2025/01/25/Kaz5Z4P7OxmS2qi.jpg
-
-      - https://s2.loli.net/2025/01/25/pysncOqIevBC5jM.jpg
-
-      - https://s2.loli.net/2025/01/25/4ulkBohrNSG2n7P.jpg
-
-      - https://s2.loli.net/2025/01/25/Cwc12OyBXVihnlq.jpg
-
-      - https://s2.loli.net/2025/01/25/1E2MfaCS9jYKtNZ.jpg
-
-      - https://s2.loli.net/2025/01/25/cuLtYwnqAFf6mUC.jpg
-
-      - https://s2.loli.net/2025/01/25/FYaIdNEhsSBuJog.jpg
-
-      - https://s2.loli.net/2025/01/25/EvMn6dXTgsA4QcB.jpg
-
-      - https://s2.loli.net/2025/01/25/R1cuqK6fzpoENl7.jpg
-    # - xxx.jpg
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013273.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013041.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013559.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013338.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013116.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013261.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062019263.png
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013399.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013305.jpeg
+    
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013905.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013174.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013957.jpeg
+    
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062014384.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062013886.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062014705.jpeg
+    
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062014397.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062014447.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062014399.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062014705.jpeg
+    
+        - https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062014545.jpeg
 
 # Replace Broken Images
 error_img:
@@ -187,7 +177,7 @@ error_img:
 # A simple 404 page
 error_404:
   enable: false
-  subtitle: 'Page Not Found'
+  subtitle: "Page Not Found"
   background: /img/error-page.png
 
 post_meta:
@@ -203,9 +193,9 @@ post_meta:
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标签
     label: true # true or false 显示描述性文字
-  
-  
-                     # 文章置顶权重
+
+
+      # 文章置顶权重
 
 # --------------------------------------
 # Index page settings
@@ -237,7 +227,6 @@ subtitle:
   sub:
     - "Hope you have a nice day!🍭🍭🍭"
     - "Welcome to Dr.Xin Home!🤣🤣🤣"
-    
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -255,7 +244,7 @@ index_layout: 3
 # 3: auto_excerpt (default)
 # false: do not show the article introduction
 index_post_content:
-  method: 3
+  method: 2
   # If you set method to 2 or 3, the length need to config
   length: 500
 
@@ -284,10 +273,10 @@ reward:
   enable: true
   text: 交个朋友！
   QR_code:
-    - img:  /image/IMG_2009.JPG
+    - img: /image/IMG_2009.JPG
       link:
       text: 微信
-    - img:  /image/IMG_2009.JPG
+    - img: /image/IMG_2009.JPG
       link:
       text: 支付宝
 
@@ -332,10 +321,10 @@ footer:
   owner:
     enable: true
     since: 2021
-  custom_text:  <span id="workboard"></span> I wish you to become your own sun, no need to rely on who's light.<p><a target="_blank" href="https://hexo.io/"><img src="https://img.shields.io/badge/Frame-Hexo-blue?style=flat&logo=hexo" title="博客框架为Hexo"></a>&nbsp;<a target="_blank" href="https://butterfly.js.org/"><img src="https://img.shields.io/badge/Theme-Butterfly-6513df?style=flat&logo=bitdefender" title="主题采用butterfly"></a>&nbsp;<a target="_blank" href="https://www.jsdelivr.com/"><img src="https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr" title="本站使用JsDelivr为静态资源提供CDN加速"></a> &nbsp;<a target="_blank" href="https://vercel.com/ "><img src="https://img.shields.io/badge/Hosted-Vervel-brightgreen?style=flat&logo=Vercel" title="本站采用双线部署，默认线路托管于Vercel"></a>&nbsp;<a target="_blank" href="https://vercel.com/ "><img src="https://img.shields.io/badge/Hosted-Coding-0cedbe?style=flat&logo=Codio" title="本站采用双线部署，联通线路托管于Coding"></a>&nbsp;<a target="_blank" href="https://github.com/"><img src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&logo=GitHub" title="本站项目由Gtihub托管"></a>&nbsp;<a target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-d42328?style=flat&logo=Claris" title="本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可"></a></p>
+  custom_text: <span id="workboard"></span> I wish you to become your own sun, no need to rely on who's light.<p><a target="_blank" href="https://hexo.io/"><img src="https://img.shields.io/badge/Frame-Hexo-blue?style=flat&logo=hexo" title="博客框架为Hexo"></a>&nbsp;<a target="_blank" href="https://butterfly.js.org/"><img src="https://img.shields.io/badge/Theme-Butterfly-6513df?style=flat&logo=bitdefender" title="主题采用butterfly"></a>&nbsp;<a target="_blank" href="https://www.jsdelivr.com/"><img src="https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr" title="本站使用JsDelivr为静态资源提供CDN加速"></a> &nbsp;<a target="_blank" href="https://vercel.com/ "><img src="https://img.shields.io/badge/Hosted-Vervel-brightgreen?style=flat&logo=Vercel" title="本站采用双线部署，默认线路托管于Vercel"></a>&nbsp;<a target="_blank" href="https://vercel.com/ "><img src="https://img.shields.io/badge/Hosted-Coding-0cedbe?style=flat&logo=Codio" title="本站采用双线部署，联通线路托管于Coding"></a>&nbsp;<a target="_blank" href="https://github.com/"><img src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&logo=GitHub" title="本站项目由Gtihub托管"></a>&nbsp;<a target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-d42328?style=flat&logo=Claris" title="本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可"></a></p>
   # Copyright of theme and framework
-  copyright:  false
-  powered: 
+  copyright: false
+  powered:
     enable: false
 
 # footer_beautify:
@@ -352,14 +341,14 @@ footer:
 #     name: footer-wrap
 #     index: 0
 #   # 计时器部分配置项（看你喜欢哪个，最好下载下来放到自己的项目中不然会增加我网站的负载）
-#   # 这是我的  
+#   # 这是我的
 #   # runtime_js: https://www.fomal.cc/static/js/runtime.js
-#   # runtime_css: https://www.fomal.cc/static/css/runtime.min.css 
-#   # 这是店长的 
+#   # runtime_css: https://www.fomal.cc/static/css/runtime.min.css
+#   # 这是店长的
 #   runtime_js: /js/runtime.js
 #   runtime_css: /css/runtime.css
 #   # 徽标部分配置项
-#   #    
+#   #
 #   # bdageitem:
 #   #   - link: https://hexo.io/ #徽标指向网站链接
 #   #     shields: https://img.shields.io/badge/Frame-Hexo-blue?style=flat&logo=hexo #徽标API
@@ -457,7 +446,7 @@ aside:
     # The title shows the series name
     series_title: false
     # Order by title or date
-    orderBy: 'date'
+    orderBy: "date"
     # Sort of order. 1, asc for ascending; -1, desc for descending
     order: -1
   card_webinfo:
@@ -487,9 +476,9 @@ translate:
   # Time delay
   translateDelay: 0
   # The text of the button when the language is Simplified Chinese
-  msgToTraditionalChinese: '繁'
+  msgToTraditionalChinese: "繁"
   # The text of the button when the language is Traditional Chinese
-  msgToSimplifiedChinese: '簡'
+  msgToSimplifiedChinese: "簡"
 
 # Read Mode
 readmode: true
@@ -503,10 +492,10 @@ darkmode:
   # autoChangeMode: 1  Following System Settings, if the system doesn't support dark mode, it will switch dark mode between 6 pm to 6 am
   # autoChangeMode: 2  Switch dark mode between 6 pm to 6 am
   # autoChangeMode: false
-  autoChangeMode: false
+  autoChangeMode: 2
   # Set the light mode time. The value is between 0 and 24. If not set, the default value is 6 and 18
-  start:
-  end:
+  start: 
+  end: 
 
 # Show scroll percent in scroll-to-top button
 rightside_scroll_percent: false
@@ -586,9 +575,9 @@ math:
 search:
   # 选择搜索方式: algolia_search / local_search / docsearch
   # 如果不需要搜索，可以将此项留空
-  use: local_search  # 或者选择 algolia_search 或 docsearch
+  use: local_search # 或者选择 algolia_search 或 docsearch
 
-  placeholder: "Search for Posts"  # 搜索框的占位符文本
+  placeholder: "Search for Posts" # 搜索框的占位符文本
 
   # Algolia 搜索设置
   algolia_search:
@@ -597,14 +586,14 @@ search:
 
   # 本地搜索设置
   local_search:
-    enable: true  # 启用本地搜索
+    enable: true # 启用本地搜索
     labels:
-      input_placeholder: Search for Posts  # 搜索框占位符
-      hits_empty: "We didn't find any results for the search: ${query}"  # 没有找到匹配内容时的提示
-    preload: false  # 是否在页面加载时预加载搜索数据
-    top_n_per_article: 1  # 每篇文章展示的最相关的搜索结果数量，设置为 -1 表示显示所有结果
-    unescape: false  # 是否解码 HTML 字符串
-    CDN:  # 如果使用 CDN 来加载本地搜索文件，可以在这里配置 CDN 地址
+      input_placeholder: Search for Posts # 搜索框占位符
+      hits_empty: "We didn't find any results for the search: ${query}" # 没有找到匹配内容时的提示
+    preload: false # 是否在页面加载时预加载搜索数据
+    top_n_per_article: 1 # 每篇文章展示的最相关的搜索结果数量，设置为 -1 表示显示所有结果
+    unescape: false # 是否解码 HTML 字符串
+    CDN: # 如果使用 CDN 来加载本地搜索文件，可以在这里配置 CDN 地址
   docsearch:
     appId:
     apiKey:
@@ -639,14 +628,14 @@ comments:
   # Leave it empty if you don't need comments
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
-  use:
+  use: Twikoo
   # Display the comment name next to the button
   text: true
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
-  lazyload: false
+  lazyload: true
   # Display comment count in post's top_img
-  count: false
+  count: true
   # Display comment count in Home Page
   card_post_count: false
 
@@ -727,10 +716,10 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://twikoo.xincode.top/
   region:
   # Use Twikoo visitor count as the page view count
-  visitor: false
+  visitor: true
   option:
 
 # Giscus
@@ -904,7 +893,7 @@ preloader:
 enter_transitions: true
 
 # Default display mode - light (default) / dark
-display_mode: light
+display_mode: dark
 
 # Configuration for beautifying the content of the article
 beautify:
@@ -918,16 +907,18 @@ beautify:
 
 # Global font settings
 # Don't modify the following settings unless you know how they work
+# Global font settings
+# Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-  global_font_size:
-  code_font_size:
-  font_family:
-  code_font_family:
+  global-font-size: '15px'
+  code-font-size: '14px'
+  font-family: BlinkMacSystemFont;
+  code-font-family: BlinkMacSystemFont;
 
-# Font settings for the site title and site subtitle
+# 左上角網站名字 主頁居中網站名字
 blog_title_font:
-  font_link:
-  font_family:
+  font_link: 
+  font-family: BlinkMacSystemFont;
 
 # The setting of divider icon
 hr_icon:
@@ -969,7 +960,7 @@ canvas_fluttering_ribbon:
 canvas_nest:
   enable: true
   # Color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
-  color: '0,0,255'
+  color: "0,0,255"
   # The opacity of line (0~1)
   opacity: 0.7
   # The z-index property of the background
@@ -993,17 +984,17 @@ click_heart:
 ClickShowText:
   enable: false
   text:
-     - 富强
-     - 民主
-     - 文明
-     - 和谐
-     - 平等
-     - 公正
-     - 法治
-     - 爱国
-     - 敬业
-     - 诚信
-     - 友善
+    - 富强
+    - 民主
+    - 文明
+    - 和谐
+    - 平等
+    - 公正
+    - 法治
+    - 爱国
+    - 敬业
+    - 诚信
+    - 友善
   fontSize: 15px
   random: true
   mobile: true
@@ -1026,7 +1017,7 @@ lightbox:
 series:
   enable: false
   # Order by title or date
-  orderBy: 'title'
+  orderBy: "title"
   # Sort of order. 1, asc for ascending; -1, desc for descending
   order: 1
   number: true
@@ -1056,16 +1047,16 @@ chartjs:
   # The default settings are only used when the MD syntax is not specified.
   # General font color for the chart
   fontColor:
-    light: 'rgba(0, 0, 0, 0.8)'
-    dark: 'rgba(255, 255, 255, 0.8)'
+    light: "rgba(0, 0, 0, 0.8)"
+    dark: "rgba(255, 255, 255, 0.8)"
   # General border color for the chart
   borderColor:
-    light: 'rgba(0, 0, 0, 0.1)'
-    dark: 'rgba(255, 255, 255, 0.2)'
+    light: "rgba(0, 0, 0, 0.1)"
+    dark: "rgba(255, 255, 255, 0.2)"
   # Background color for scale labels on radar and polar area charts
   scale_ticks_backdropColor:
-    light: 'transparent'
-    dark: 'transparent'
+    light: "transparent"
+    dark: "transparent"
 
 # Note - Bootstrap Callout
 note:
@@ -1087,14 +1078,14 @@ note:
 
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   # Exclude the specified pages from pjax, such as '/music/'
   exclude:
     # - /xxxxxx/
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar - Toast Notification
@@ -1104,8 +1095,8 @@ snackbar:
   enable: false
   position: bottom-left
   # The background color of Toast Notification in light mode and dark mode
-  bg_light: '#49b1f5'
-  bg_dark: '#1f1f1f'
+  bg_light: "#49b1f5"
+  bg_dark: "#1f1f1f"
 
 # Instant.page
 # https://instant.page/
@@ -1155,13 +1146,18 @@ css_prefix: true
 # Insert the code to head (before '</head>' tag) and the bottom (before '</body>' tag)
 inject:
   head:
-   - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
-   - <link rel="stylesheet" href="/css/universe.css">
-    # - <link rel="stylesheet" href="/xxx.css">
+    - '<style type="text/css">#toggle-sidebar {bottom: 80px}</style>'
+    - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    - <link rel="stylesheet" href="/css/universe.css">
+    - <link rel="stylesheet" href="/css/transpancy.css">
+    # - <link rel="stylesheet" href="/css/font.css">
+      # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-      - <script defer src="/js/runtime.js"></script> # 主模块js
-      - <canvas id="universe"></canvas>
-      - <script defer src="/js/universe.js"></script>
+    - <script defer src="/js/runtime.js"></script> # 主模块js
+    - <canvas id="universe"></canvas>
+    - <script defer src="/js/universe.js"></script>
+    - <div class="aplayer no-destroy" data-id="13278332606" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true" data-lrcType="-1" data-volume="0.15"> </div>
+
     # - <script src="xxxx"></script>
 
 # CDN Settings
@@ -1268,7 +1264,7 @@ CDN:
     # utils:
     # translate: https://cdn1.tianli0.top/npm/js-heo@1.0.6/translate/tw_cn.js
     # local_search:
-    # algolia_js: 
+    # algolia_js:
     algolia_search_v4: https://cdn.staticfile.org/algoliasearch/4.14.3/algoliasearch-lite.umd.min.js
     instantsearch_v4: https://cdn.staticfile.org/instantsearch.js/4.49.2/instantsearch.production.min.js
     pjax: https://lib.baomitu.com/pjax/0.2.8/pjax.min.js
@@ -1314,7 +1310,7 @@ CDN:
     # prismjs_autoloader: https://cdn1.tianli0.top/npm/prismjs/plugins/autoloader/prism-autoloader.min.js
 envelope_comment:
   enable: true #控制开关
-  custom_pic:      
+  custom_pic:
     cover: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/violet.jpg #信笺头部图片
     line: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/line.png #信笺底部图片
     beforeimg: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/before.png # 信封前半部分
@@ -1331,7 +1327,6 @@ envelope_comment:
     title: 留言板
     comments: true
 
-
 # --------------------------------------
 # hexo-butterfly-categories-card
 # see https://akilar.top/posts/a9131002/
@@ -1344,14 +1339,14 @@ categoryBar:
     name: recent-posts
     index: 0
   column: odd # odd：3列 | even：4列
-  row: 1 #显示行数，默认两行，超过行数切换为滚动显示
+  row: 2 #显示行数，默认两行，超过行数切换为滚动显示
   message:
-    - descr: 影视
-      cover: https://s2.loli.net/2025/02/04/xs9Rzu3QMVfDwqo.png
     - descr: 专业课
-      cover: https://s2.loli.net/2025/01/25/4ulkBohrNSG2n7P.jpg
-    - descr: 长篇小说连载
-      cover: https://assets.akilar.top/image/cover3.webp
+      cover: https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062237098.png
+    - descr: 影视
+      cover: https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502070138616.jpeg
+    - descr: 旅游
+      cover: https://drxinblog.oss-cn-beijing.aliyuncs.com/blog/202502062245992.png
     - descr: 个人日记
       cover: https://assets.akilar.top/image/cover4.webp
     - descr: 诗词歌赋
@@ -1360,11 +1355,10 @@ categoryBar:
       cover: https://assets.akilar.top/image/cover6.webp
   custom_css: https://npm.elemecdn.com/hexo-butterfly-categories-card@1.0.0/lib/categorybar.css
 
-
   # ----------
   # 文章page页动画
 wowjs:
-  enable: true #控制动画开关。true是打开，false是关闭
+  enable: false #控制动画开关。true是打开，false是关闭
   priority: 10 #过滤器优先级
   mobile: false #移动端是否启用，默认移动端禁用
   animateitem:
@@ -1397,7 +1391,10 @@ electric_clock:
   clock_css: https://cdn.cbd.int/hexo-butterfly-clock-anzhiyu/lib/clock.min.css
   clock_js: https://cdn.cbd.int/hexo-butterfly-clock-anzhiyu/lib/clock.min.js
   ip_api: https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0
-  qweather_key:  # 和风天气key
-  gaud_map_key:  eca691b9baf4eb225b4789fa1b050033
+  qweather_key: # 和风天气key
+  gaud_map_key: eca691b9baf4eb225b4789fa1b050033
   default_rectangle: false # 开启后将一直显示rectangle位置的天气，否则将获取访问者的地理位置与天气
   rectangle: 113.34532,23.15624 # 获取访问者位置失败时会显示该位置的天气，同时该位置为开启default_rectangle后的位置
+
+butterfly_article_double_row:
+  enable: true

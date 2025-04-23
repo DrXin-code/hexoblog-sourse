@@ -135,3 +135,11 @@ lazyload:
 
 # butterfly_article_double_row:
 #   enable: true
+
+# 音乐//
+aplayer:
+  asset_inject: false
+  meting: true
+
+butterfly_article_double_row:
+  enable: true
